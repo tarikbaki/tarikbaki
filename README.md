@@ -15,3 +15,28 @@
 [![Mail Badge](https://img.shields.io/badge/tarikbaki@hotmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tarikbaki@hotmail.com)](mailto:tarikbaki@hotmail.com)
 
 
+```bash
+                  ┌────────────────┐
+                  │ Cloud Engineer │
+                  │  • Infra design│
+                  │  • Security    │
+                  │  • Cost opt.   │
+                  └───────▲────────┘
+                          │
+   ┌───────────────┐      │       ┌───────────────┐
+   │  DevOps Eng.  │──────┼──────▶│    SRE       │
+   │  • CI/CD      │      │        │ • Reliability│
+   │  • IaC        │      │        │ • SLO/SLI    │
+   │  • Deployments│      │        │ • Incidents  │
+   └───────▲───────┘      │        └───────────────┘
+           │              │
+           │              │
+           ▼              ▼
+      ┌────────────────────────┐
+      │   Platform Engineer    │
+      │  • IDPs, golden paths  │
+      │  • Dev productivity    │
+      │  • Self-service infra  │
+      └────────────────────────┘
+
+```
