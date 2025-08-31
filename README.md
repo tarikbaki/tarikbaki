@@ -67,7 +67,7 @@
 
 ## 🚀 Projects  
 
-- [DevOps Mini Training Set](https://github.com/tarikbaki/devops-mini-training) – Hands-on labs & learning materials  
+- [DevOps Mini Training Set]([https://github.com/tarikbaki/devops-mini-training](https://github.com/tarikbaki/platform_homework-aws-eks-hf)) – Hands-on labs & learning materials  
 - [Terraform + Ansible + K8s + AWS Python App with MySQL](https://github.com/tarikbaki/terraform-ansible-kube-aws_python_app_with_mysql) – Infra automation example  
 - [Azure Terraform Infra](https://github.com/tarikbaki/azure-terraform-infra) – Azure infra with Terraform  
 - **Kubernetes Tips** – Best practices & configs for Kubernetes environments  
